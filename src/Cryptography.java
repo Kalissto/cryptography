@@ -21,12 +21,8 @@ public class Cryptography {
                     Thread.sleep(1000);
                 }
             }
-            }
         }
-
-
-
-
+    }
 
 
 }
